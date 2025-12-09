@@ -105,7 +105,7 @@ const App: React.FC = () => {
             <span className="text-sm font-bold text-gray-500 uppercase">De Dezembro</span>
           </div>
           <div className="bg-white p-6 rounded-3xl shadow-lg border-l-4 border-christmas-red flex flex-col items-center justify-center transform transition hover:scale-105">
-            <span className="text-4xl font-bold text-christmas-red font-display">18</span>
+            <span className="text-4xl font-bold text-christmas-red font-display">16</span>
             <span className="text-sm font-bold text-gray-500 uppercase">Horas</span>
           </div>
         </div>
